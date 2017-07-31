@@ -5,9 +5,10 @@ excerpt: "柠檬酱简介"
 categories: 简介
 comments: true
 image:
+  feature: https://github.com/LoveLemonDesign/LoveLemonDesign.github.io/raw/master/_posts/images/lemon.jpg
 ---
 
-## 大家好，我是柠檬酱
+大家好，我是柠檬酱,  
 一个性格活泼开朗的双鱼女孩，  
 爱画画，爱摄影，爱生活，爱一切美好的事物。  
 喜欢艺术是因为大胆，奇妙，合时宜的妙想，不仅仅丰富  
