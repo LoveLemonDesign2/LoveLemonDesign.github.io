@@ -36,7 +36,7 @@ owner:
   name: 柠檬酱
   avatar: avatar.jpg
   job: "UI设计师"
-  bio: "90后设计师 双鱼座女孩"
+  bio: "爱生活、学设计、悟人生、知奋斗、录心灵。"
   email:
   disqus-shortname:
   twitter: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: LoveLemonDesign
+  github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
